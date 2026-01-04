@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "The Greatest Love (Lyric Video)",
+  "base_artist": "London Grammar",
+  "createdAt": "2026-01-04T13:00:56.920121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Greatest Love Of All",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/01_The_Greatest_Love_Of_All_ABC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Greatest Love of All (May Day Mix)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/02_The_Greatest_Love_of_All_(May_Day_Mix)_ABC.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Greatest Love Of All",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Mykal Kilgore",
+      "has_synced": true,
+      "path": "select/03_The_Greatest_Love_Of_All_Scott_Bradlee's_Postmodern_Jukebox_feat._Mykal_Kilgore.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're The Greatest Love",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/04_You're_The_Greatest_Love_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Greatest Love",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/05_The_Greatest_Love_Chicago.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Greatest Love on Earth",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/06_The_Greatest_Love_on_Earth_Chicago.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Greatest Love",
+      "artist": "Aaron Neville",
+      "has_synced": true,
+      "path": "select/07_The_Greatest_Love_Aaron_Neville.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Greatest Love Affair",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/08_The_Greatest_Love_Affair_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Greatest Love Of All",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/09_The_Greatest_Love_Of_All_George_Benson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Greatest Love Of All",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/10_The_Greatest_Love_Of_All_George_Benson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Greatest Love",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/pl_01_The_Greatest_Love_London_Grammar.txt"
+    }
+  ]
+}
